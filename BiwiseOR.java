@@ -11,7 +11,7 @@ public class BiwiseOR {
         System.out.println("enter the second number");
         int b = sc.nextInt();
 
-        int result = a^b;
+        int result = a|b;
         System.out.println("result is :"+result);
 
 
